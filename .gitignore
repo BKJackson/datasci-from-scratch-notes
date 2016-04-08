@@ -5,3 +5,6 @@
 # Emacs
 *~
 /#*/#
+
+# Ignore data directory
+data/
